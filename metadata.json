@@ -1,0 +1,6 @@
+{
+  "name": "قوة الآن",
+  "description": "مدير ذكي للوقت والمهام باللغة العربية، يركز على اللحظة الحالية وجدولة 24 ساعة ومنع التعارضات والتنبيهات الموثوقة دون إنترنت.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
